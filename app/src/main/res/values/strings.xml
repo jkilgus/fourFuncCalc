@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">fourFuncCalc</string>
+    <string name="default_display">0</string>
+    <string name="all_clear_label">AC</string>
+    <string name="clear_label">C</string>
+    <string name="seven_label">7</string>
+    <string name="eight_label">8</string>
+    <string name="nine_label">9</string>
+    <string name="plus_label">+</string>
+    <string name="four_label">4</string>
+    <string name="five_label">5</string>
+    <string name="six_label">6</string>
+    <string name="minus_label">-</string>
+    <string name="one_label">1</string>
+    <string name="two_label">2</string>
+    <string name="three_label">3</string>
+    <string name="times_label">X</string>
+    <string name="zero_label">0</string>
+    <string name="point_label">.</string>
+    <string name="equals_label">=</string>
+    <string name="divide_label">/</string>
+    <string name="display">0</string>
+
+</resources>
